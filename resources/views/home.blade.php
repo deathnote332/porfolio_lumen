@@ -140,7 +140,7 @@
                         </li>
                     </ul>
                     <div class="button-cv">
-                        <a class="button-preview" href="../assets/jpicv.docx" download>DOWNLOAD CV</a>
+                        <a class="button-preview" href="../assets/JP CV-Updated.docx" download>DOWNLOAD CV</a>
                     </div>
 
 
