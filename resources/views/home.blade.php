@@ -448,12 +448,12 @@
     <section id="contact">
         <div class="container">
             <div class="col-md-8 col-md-offset-2 col-md-push-1">
-                <div class="col-md-6 col-xs-6 wow fadeInDown" data-wow-delay="1s">
+                <div class="col-md-6 wow fadeInDown" data-wow-delay="1s">
                     <i class="fa fa-envelope fa-lg"></i>
                     <h5>EMAIL</h5>
                     <p>johnpaulinhog@yahoo.com</p>
                 </div>
-                <div class="col-md-6 col-xs-6  wow fadeInDown" data-wow-delay="2s">
+                <div class="col-md-6  wow fadeInDown" data-wow-delay="2s">
                     <i class="fa fa-phone fa-lg"></i>
                     <h5>PHONE</h5>
                     <p>09177388097</p>
