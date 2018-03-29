@@ -128,7 +128,7 @@
                     <div class="about-header">
                         <h2> Introduction.</h2>
                     </div>
-                    <p>Hi, there! I am <u>John Paul</u>. Currently working as a junior software developer. I love to create useful ideas and turn them into brilliant codes like I always do.
+                    <p>Hi, there! I am <a href="https://web.facebook.com/jampolXD">John Paul</a>. Currently working as a junior software developer. I love to create useful ideas and turn them into brilliant codes like I always do.
                         I'm a passionate web developer and always eager to learn new things about our current technology.
                     </p>
                     <ul>
